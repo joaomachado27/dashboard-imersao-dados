@@ -92,7 +92,7 @@ Instale na pasta do projeto o ambiente virtual e as dependências com o uso do p
 
 # Deploy e implatação  <a name="id04"></a>
 
-link do dashboard: []()
+link do dashboard: [https://dashboard-interativo-teste.streamlit.app/](https://dashboard-interativo-teste.streamlit.app/)
 
 # Autoria <a name="id05"></a>
 
